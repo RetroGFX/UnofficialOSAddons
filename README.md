@@ -6,7 +6,7 @@ This tool allows you to download various game ports that are not available in Po
 
 One of the goals of UnofficialOSAddOns is to not install or upgrade any existing OS libraries for any ports.  Any of the ports that need a particular non standard library are maintained within the ports' folder and made available specifically to that port during execution.
 
-Most of the the ports available through JelosAddOns have only been configured to launch on the Anbernic RG552 running the latest version of UnofficialOS.
+Most of the the ports available through UnofficialOSAddOns have only been configured to launch on the Anbernic RG552 running the latest version of UnofficialOS.
 
 All ports in UnofficialOSAddOns should follow the same formating as Portmaster.
 
